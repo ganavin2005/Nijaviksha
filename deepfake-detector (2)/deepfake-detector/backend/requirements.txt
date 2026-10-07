@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+python-multipart
+# AI Core Dependencies (Uncomment when running actual models)
+# torch
+# torchvision
+# Pillow
+# opencv-python
